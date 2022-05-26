@@ -1,0 +1,12 @@
+.map,
+#container {
+  height: 100%;
+}
+
+.map {
+  padding-top: 45px;
+}
+
+.map .am-navbar-light {
+  margin-top: -45px;
+}
